@@ -22,7 +22,7 @@ I'm currently working on MERN Stack<br>I'm looking to get help with entering as 
 ![](https://github-contributor-stats.vercel.app/api?username=adarshj12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/{YOUR_LEETCODE_USERNAME}">
+<a href="https://leetcode.com/{adarshjayadevan12}">
   <img src="https://leetcode-card.vercel.app/api?username={adarshjayadevan12}" />
 </a>
 
