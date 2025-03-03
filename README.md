@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on MERN Stack<br>I'm looking to get help with entering as Developer<br>I'm currently learning DSA<br>Ask me about Math, MERN
+I'm currently working on MERN Stack
 
 
 ## 🌐 Socials:
