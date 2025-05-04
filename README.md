@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on MERN Stack
+Software Engineer
 
 
 ## 🌐 Socials:
